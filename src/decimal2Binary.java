@@ -7,11 +7,10 @@ public class decimal2Binary {
               System.out.println(ans);
     }
 
-
     public static StringBuffer d2b(int num){
         StringBuffer result = new StringBuffer();
 
-        while(num != 1){
+        while(num != 0){
             if(num % 2 == 1) {
                 result.append(1);
             } else {
