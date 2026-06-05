@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/Bit-manipulation/Bit-manipulation.iml" filepath="$PROJECT_DIR$/Bit-manipulation/Bit-manipulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA-practice.iml" filepath="$PROJECT_DIR$/DSA-practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dynamic-Programming/Dynamic-Programming.iml" filepath="$PROJECT_DIR$/Dynamic-Programming/Dynamic-Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heap/Heap.iml" filepath="$PROJECT_DIR$/Heap/Heap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matrix/Matrix.iml" filepath="$PROJECT_DIR$/Matrix/Matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TCS/TCS.iml" filepath="$PROJECT_DIR$/TCS/TCS.iml" />
     </modules>
   </component>
 </project>
